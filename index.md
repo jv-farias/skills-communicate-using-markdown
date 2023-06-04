@@ -11,3 +11,7 @@ public class Conta {
     String dono_conta
 }
 ````
+
+- [x] Atividade Markdown
+- [x] Atividade Duolingo
+- [ ] Atividade Readme
